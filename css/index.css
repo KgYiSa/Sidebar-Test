@@ -1,0 +1,25 @@
+body{
+    background-color: aquamarine;
+}
+
+.myDiv{
+    height: 470px;
+    width: 500px;
+}
+#sidebar {
+    min-width: 450px;
+    min-height: 430px;
+    margin-top: 100px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding: 10px 10px 20px 10px;
+    border-color: black;
+
+}
+
+#sidebar .content {
+    background-color: burlywood;
+    height: 100%;
+    min-height: 400px;
+    padding: 10px 10px 10px 10px;
+}
